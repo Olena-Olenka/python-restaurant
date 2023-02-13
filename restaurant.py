@@ -6,4 +6,4 @@ for i in choice:
   
    print (i + '.....UAH{}'.format(randint (50,100)))
  
-print('Total.....UAH{}'.format(randint (50,100)))
+print('Total.....UAH{}'.format(randint (100,500)))
